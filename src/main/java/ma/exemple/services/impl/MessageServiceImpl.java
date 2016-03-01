@@ -1,10 +1,10 @@
-package ma.mahmoud.services.impl;
+package ma.exemple.services.impl;
 
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
 
-import ma.mahmoud.dao.IMessageDAO;
-import ma.mahmoud.services.IMessageService;
+import ma.exemple.dao.IMessageDAO;
+import ma.exemple.services.IMessageService;
 
 @RequestScoped
 public class MessageServiceImpl implements IMessageService {

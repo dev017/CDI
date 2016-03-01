@@ -1,11 +1,11 @@
-package ma.mahmoud.servlets;
+package ma.exemple.servlets;
 
 import javax.annotation.PostConstruct;
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import ma.mahmoud.services.IMessageService;
+import ma.exemple.services.IMessageService;
 
 @Named("controller")
 @RequestScoped

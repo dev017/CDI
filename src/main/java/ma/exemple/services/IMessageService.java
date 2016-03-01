@@ -1,4 +1,4 @@
-package ma.mahmoud.services;
+package ma.exemple.services;
 
 public interface IMessageService {
 

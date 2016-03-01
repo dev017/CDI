@@ -1,4 +1,4 @@
-package ma.mahmoud.dao;
+package ma.exemple.dao;
 
 public interface IMessageDAO {
 
